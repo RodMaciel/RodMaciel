@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! eu sou o Rodrigo Maciel, curso Análise e Desenvolvimento de Sistemas na FIAP!
 
 - 🔭 Procurando uma oportunidade...
 - 🌱 Atualmente aprendendo Java e POO
