@@ -1,7 +1,7 @@
 ### Olá! eu sou o Rodrigo Maciel, curso Análise e Desenvolvimento de Sistemas na FIAP!
 
 - 🔭 Procurando uma oportunidade...
-- 🌱 Atualmente aprendendo PL/SQL e PowerBI
+- 🌱 Atualmente aprendendo Kotlin!
 - 📫 Entre em contato através to email: rodrigodmc9@gmail.com
 -->
 <div align="center">
